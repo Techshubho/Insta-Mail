@@ -16,3 +16,5 @@ $ cd Insta-Mail
 # install the requirements
 $ pip3 install -r requirements.txt
 ```
+# Usage
+$ python InstaMail.py
