@@ -19,5 +19,6 @@ $ pip3 install -r requirements.txt
 ```
 
 # Credits
-This script is inspired by [sameera's](https://github.com/sameera-madushan)  
+This script is inspired by [Sameera's](https://github.com/sameera-madushan) script. 
 
+A heartfelt thank you to the developers of the 1secmail API and [Sameera's] script for their invaluable contribution to the creation of Insta Mail and enhancing email privacy.
