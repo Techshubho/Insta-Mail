@@ -1,4 +1,4 @@
-#                                      **** Insta-Mail ****
+# Insta-Mail 
 
 Insta Mail is a python script that helps you to create temporary email addresses and receive emails at that address. It uses the API provided by [1secmail](https://www.1secmail.com/api/) to create emails addresses and fetch emails.
 
@@ -9,10 +9,9 @@ You can either generate your own email address or you can generate a random emai
 ## Git Installation
 ```
 # clone the repo
-$ git clone https://github.com/sameera-madushan/Mail-Swipe.git
-
-# change the working directory to Mail-Swipe
-$ cd Mail-Swipe
+$ git clone https://github.com/Techshubho/Insta-Mail
+# change the working directory to Insta-Mail
+$ cd Insta-Mail
 
 # install the requirements
 $ pip3 install -r requirements.txt
