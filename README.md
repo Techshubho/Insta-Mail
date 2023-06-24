@@ -15,7 +15,7 @@ $ cd Insta-Mail
 
 # install the requirements
 $ pip3 install -r requirements.txt
-$Go thorugh "All Mails" Folder in Insta-Mail Folder to see all of your mails
+$Go thorugh "All Mails" folder inside Insta-Mail Folder to see all of your mails
 ```
 
 # Credits
