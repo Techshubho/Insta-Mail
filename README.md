@@ -9,8 +9,7 @@ It's important to note that certain email addresses, such as abuse@domain, webma
 ## Git Installation
 ```
 # clone the repo
-$ git clone https://github.com/sameera-madushan/Mail-Swipe.git
-
+$ git clone https://github.com/Techshubho/Insta-Mail.git
 # change the working directory to Insta-Mail
 $ cd Insta-Mail
 
