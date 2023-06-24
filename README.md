@@ -1,4 +1,4 @@
-# Insta-Mail | Keep your real mailbox clean and secure. 
+# Insta-Mail | Generate Temporary Disposable Email Address
 
 Insta Mail is a Python script designed to facilitate the creation of temporary email addresses and the retrieval of emails sent to those addresses. It leverages the functionality provided by the [1secmail API](https://www.1secmail.com/api/) API to generate email addresses and fetch email messages.
 
@@ -21,4 +21,4 @@ $ pip3 install -r requirements.txt
 # Credits
 This script is inspired by [Sameera's](https://github.com/sameera-madushan) script. 
 
-A heartfelt thank you to the developers of the 1secmail API and [Sameera's] script for their invaluable contribution to the creation of Insta Mail and enhancing email privacy.
+A heartfelt thank you to the developers of the 1secmail API and Sameera's script for their invaluable contribution to the creation of Insta Mail and enhancing email privacy.
