@@ -1,6 +1,6 @@
 # Insta-Mail | Keep your real mailbox clean and secure. 
 
-Insta Mail is a Python script designed to facilitate the creation of temporary email addresses and the retrieval of emails sent to those addresses. It leverages the functionality provided by the (https://www.1secmail.com/api/) API to generate email addresses and fetch email messages.
+Insta Mail is a Python script designed to facilitate the creation of temporary email addresses and the retrieval of emails sent to those addresses. It leverages the functionality provided by the [1secmail API](https://www.1secmail.com/api/) API to generate email addresses and fetch email messages.
 
 Using this script, you have the option to either generate your own custom email address or have a random email address generated for you. Once an email is received, it is automatically saved in a text file located within the "All Mails" folder.
 
