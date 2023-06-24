@@ -11,11 +11,12 @@ It's important to note that certain email addresses, such as abuse@domain, webma
 # clone the repo
 $ git clone https://github.com/sameera-madushan/Mail-Swipe.git
 
-# change the working directory to Mail-Swipe
-$ cd Mail-Swipe
+# change the working directory to Insta-Mail
+$ cd Insta-Mail
 
 # install the requirements
 $ pip3 install -r requirements.txt
+$Go thorugh "All Mails" Folder in Insta-Mail Folder to see all of your mails
 ```
 
 # Credits
